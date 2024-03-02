@@ -6,9 +6,10 @@ This article will provides reader all the information on how to setup their loca
 
 ## Running Tests
 
-To run tests, run the following command
+To run tests after cloning the repository, run the following command
 
 ```bash
+  cd First_Nightwatch_Framework
   npm install
   npm test
 ```
